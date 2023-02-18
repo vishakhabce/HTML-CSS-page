@@ -6,4 +6,4 @@
 
 Deployment Link : [Deployment](https://vishakhabce.github.io/HTML-CSS-page/)
 
-![Deployment](./pic1.png"Landing Page")
+![Deployment](/pic1.png "Landing Page")
